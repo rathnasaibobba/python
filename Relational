@@ -14,10 +14,10 @@ if __name__ == '__main__' :
     
     print(a <= b)
 
-{{{{{{{{{{{ OUTPUT }}}}}}}}}}}
-False
-True
-False
-True
-False
-True
+#{{{{{{{{{{{ OUTPUT }}}}}}}}}}}
+# False
+# True
+# False
+# True
+# False
+# True
