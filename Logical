@@ -10,9 +10,9 @@ if __name__ == '__main__' :
     print(not a>b)
     print(not a<b)
 
-{{{{{ OUTPUT }}}}}
-False
-False
-True
-False
-True
+#{{{{{ OUTPUT }}}}}
+# False
+# False
+# True
+# False
+# True
