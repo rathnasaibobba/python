@@ -1,1 +1,23 @@
+if __name__ == '__main__' :
+    a = 54
+    b = 87
+    
+    print(a > b)
+    
+    print(a < b)
+    
+    print(a == b)
+    
+    print(a != b)
+    
+    print(a >= b)
+    
+    print(a <= b)
 
+{{{{{{{{{{{ OUTPUT }}}}}}}}}}}
+False
+True
+False
+True
+False
+True
