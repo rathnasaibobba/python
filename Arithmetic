@@ -37,3 +37,13 @@ if __name__ == '__main__' :
     
     exp=exponential(a,b)
     print(exp)
+
+
+{{{{{{{{{ OUTPUT }}}}}}}}}
+
+18
+14
+32
+8.0
+0
+256
