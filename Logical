@@ -1,1 +1,18 @@
+if __name__ == '__main__' :
+    a = 6
+    b = 3
+    
+    print(a<b and a==6)
+    
+    print(a<b or b==6)
+    print(a>b or b==3)
+    
+    print(not a>b)
+    print(not a<b)
 
+{{{{{ OUTPUT }}}}}
+False
+False
+True
+False
+True
