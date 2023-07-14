@@ -16,8 +16,8 @@ if __name__ == '__main__' :
     
     print(c is d)
 
-{{{{{{{{{{{{{ OUTPUT }}}}}}}}}}}}}
-False
-True
-False
-True
+#{{{{{{{{{{{{{ OUTPUT }}}}}}}}}}}}}
+# False
+# True
+# False
+# True
