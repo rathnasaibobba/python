@@ -1,1 +1,40 @@
 
+def addition(x,y):
+    return x+y
+    
+def subtraction(x,y):
+    return x-y
+
+def multiplication(x,y):
+    return x*y 
+    
+def division(x,y):
+    return x/y
+    
+def modulus(x,y):
+    return x%y
+    
+def exponential(x,y):
+    return x**y
+    
+    
+if __name__ == '__main__' :
+    a = 16
+    b = 2
+    add=addition(a,b)
+    print(add)
+    
+    sub=subtraction(a,b)
+    print(sub)
+    
+    mul=multiplication(a,b)
+    print(mul)
+    
+    div=division(a,b)
+    print(div)
+    
+    mod=modulus(a,b)
+    print(mod)
+    
+    exp=exponential(a,b)
+    print(exp)
