@@ -1,1 +1,3 @@
-
+list1 = ["Hi ", "Hey "]
+list2 = ["Madam", "Sir"]
+print ( [list1[0]+list2[0]]  + [list1[0]+list2[1]] + [list1[1]+list2[0]] + [list1[1]+list2[1]] )
