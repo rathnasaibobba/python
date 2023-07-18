@@ -1,1 +1,9 @@
+def details(name, age):
+    print(" My name is " + name + " aged " + age)
 
+if __name__ == '__main__':
+    print("enter your name")
+    name = input()
+    print("enter your age")
+    age = input()
+    details(name, age)
