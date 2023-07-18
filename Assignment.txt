@@ -1,0 +1,33 @@
+if __name__ == '__main__' :
+    a = 6
+    b = 8
+    c = 3
+    d = 10
+    e = 20
+    f = 6
+    
+    a += 4
+    print(a)
+    
+    b -= 4
+    print(b)
+    
+    c *= 2
+    print(c)
+    
+    d /= 2
+    print(d)
+    
+    e %= 3
+    print(e)
+    
+    f **= 2
+    print(f)
+
+#{{{{{{{{{ OUTPUT }}}}}}}}}
+# 10
+# 4
+# 6
+# 5.0
+# 2
+# 36
