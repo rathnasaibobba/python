@@ -1,1 +1,4 @@
-
+string = "python"
+new_string = string.replace("y", "&" )
+print(string)
+print(new_string)
