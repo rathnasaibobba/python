@@ -1,0 +1,3 @@
+string1='aabbccc'
+string2= {char: string1.count(char) for char in string1}
+print(string2)
